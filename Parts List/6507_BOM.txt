@@ -1,0 +1,54 @@
+4.7k 		R2, R5	S4.7KCACT-ND	qty=4
+390 OHM 	R6	S390CACT-ND	qty=2
+150k		R7	S150KCACT-ND	qty=2
+15k		R8	S15KCACT-ND	qty=2
+1K		R9, R22, R23, R27	S1KCACT-ND	qty=10+
+0 OHM		R3
+0.1u		C2, C3, C4, C15, C16, C26, C17, C18	
+18pF		C5, C6	399-8030-1-ND			qty=4
+0.068u		C8, C9, C10	311-3394-1-ND		qty=6
+1u, 25V, 0805	C28	490-4785-1-ND			qty=2
+10u, 25V, 0805 	C19	1276-2891-1-ND			qty=2
+47u		C20	732-8823-1-ND 			qty=2
+USB Conn	J1	A31725-ND			qty=2
+1N914, DO-35	D1, D2	1N914FS-ND			qty=4
+500k pot	R4	3296X-504LF-ND			qty=1 or 2
+PNP 2N3906-AP	Q1	2N3906-APCT-ND			qty=2
+3.51MHz XTAL	X1	631-1093-ND			qty=2
+
+3.3K		R10, R11, R12, R13, R25, R33, R34, R35	S3.3KCACT-ND	qty=20
+10K		R14, R15, R17, R1	S10KCACT-ND	qty=10
+2.2K		R26	S2.2KCACT-ND			qty=2
+18K		R20, R28	S18KCACT-ND		qty=4
+47K		R16	S47KCACT-ND			qty=2
+24K		R18, R29, R30, R31, R32	S24KCACT-ND	qty=10
+12K		R19	S12KCACT-ND			qty=2
+680 OHM		R24	S680CACT-ND			qty=2
+6.8K		R21	S6.8KCACT-ND			qty=2
+150pF		C12	399-9176-1-ND			qty=2
+22pF		C13	399-9187-1-ND			qty=2
+47pF		C14	399-8081-1-ND			qty=2
+CD74HC4050EE4	U2	296-9213-5-ND			qty=2
+NPN		Q2	2N4401D26ZCT-ND			qty=2
+
+4.7u		C1	490-7208-1-ND			qty=2
+100 OHM		R40	S100CACT-ND			qty=2
+LED		D5	1080-1012-1-ND			qty=2
+mom swit h	SW1	SW413-ND		qty=3
+12x1 rcpt	CRT1	S6100-ND		qty=4	
+
+0.01u		C22, C23, C27	311-1136-1-ND	qty= 6
+220pF		C24, C25	399-6938-1-ND	qty=4
+2-pin		J4, J5, J6	952-2262-ND	qty=3
+DB9(M)		P1, P2		A32072-ND	qty=2
+
+TIA		U1	C010444-11D		qty= 1 (install in 40-pin socket)
+6507		U3	6507			qty = 1 (install in 28-pin socket)
+RIOT		U4	6532			qty = 1 (install in 40-pin socket)	
+
+28-pin socket	609-4715-ND	qty = 1
+40-pin socket	609-4716-ND	qty = 2
+
+Do not install J7 or U5
+
+
